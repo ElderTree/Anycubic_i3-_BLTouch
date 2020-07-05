@@ -76,12 +76,12 @@
 // example_configurations/hangprinter directory and customize for your machine.
 //
 
-// @section info
+@section info
 
 // User-specified version info of this build to display in [Pronterface, etc] terminal window during
 // startup. Implementation of an idea by Prof Braino to inform user that any changes made to this
 // build by the user have been successfully uploaded into firmware.
-#define STRING_CONFIG_H_AUTHOR "Tobias Reithmeier" // Who made the changes.
+#define STRING_CONFIG_H_AUTHOR "Rasmus Behnke" // Who made the changes.
 #define SHOW_BOOTSCREEN
 #define STRING_SPLASH_LINE1 SHORT_BUILD_VERSION // will be shown during bootup in line 1
 #define STRING_SPLASH_LINE2 WEBSITE_URL         // will be shown during bootup in line 2
